@@ -1,3 +1,8 @@
 body{
-	font-family: "Helvetica Neue" Helvetica, Arial, sans-serif;
+	 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.formulario{
+	background-color: #FFF;
+	text-align: center;
 }
