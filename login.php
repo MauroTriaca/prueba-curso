@@ -9,6 +9,7 @@
 	<form>
 		<p>UserName<input type="text"></p>
 		<p>Password<input type="password"></p>
+		<p>Escribe algo<textarea></textarea>></p>
 		<p><input value="login" type="submit" ></p>
 
 
